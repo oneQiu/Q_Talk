@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "target": "ES5",
+    "lib": ["ESNext"],
+    "sourceMap": true,
+    "jsx": "react",
+    "module": "AMD",
+    "baseUrl": "./src",
+    "paths": {
+      "@": ["./src"],
+    }
+  },
+}
